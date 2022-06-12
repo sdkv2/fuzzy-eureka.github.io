@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color: red
+}
+p{
+    background-color: rgba(255, 255, 255, 0.6);
+}
+div{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+body{
+    background-image: url('morbius_banner_2572x1100_copyright.jpg');
+}
+
